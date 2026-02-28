@@ -1,7 +1,9 @@
 streamlit
 pandas
-numpy 
-matplotlib.pyplot
+numpy
+matplotlib
 seaborn
 plotly
+scikit-learn
+joblib
 warnings
